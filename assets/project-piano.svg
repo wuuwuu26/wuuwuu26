@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300" role="img" aria-labelledby="t-piano d-piano">
+<title id="t-piano">Gesture Piano</title>
+<desc id="d-piano">A contactless ten-finger rhythm game on Raspberry Pi 5 with MediaPipe.</desc>
+<defs>
+  <linearGradient id="bg-piano" x1="0" y1="0" x2="640" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0b1220"/><stop offset="1" stop-color="#0f1b33"/>
+  </linearGradient>
+  <radialGradient id="glow-piano" cx="0.5" cy="0.5" r="0.5">
+    <stop stop-color="#f472b6" stop-opacity="0.28"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid-piano" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-opacity="0.35"/>
+  </pattern>
+  <linearGradient id="line-piano" x1="0" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#f472b6" stop-opacity="0"/><stop offset="0.5" stop-color="#f472b6" stop-opacity="0.9"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="640" height="300" rx="16" fill="url(#bg-piano)"/>
+<rect width="640" height="300" rx="16" fill="url(#grid-piano)" opacity="0.35"/>
+<circle cx="540" cy="80" r="190" fill="url(#glow-piano)"/>
+<g>
+  <g opacity="0.95">
+    <g transform="translate(430 196)">
+      <rect x="0" y="0" width="180" height="54" rx="6" fill="#0b1220" stroke="#f472b6" stroke-opacity="0.35"/>
+      <g fill="#f8fafc" stroke="#94a3b8" stroke-width="1">
+        <rect x="4" y="4" width="22" height="46" rx="2"/><rect x="28" y="4" width="22" height="46" rx="2"/><rect x="52" y="4" width="22" height="46" rx="2"/><rect x="76" y="4" width="22" height="46" rx="2"/><rect x="100" y="4" width="22" height="46" rx="2"/><rect x="124" y="4" width="22" height="46" rx="2"/><rect x="148" y="4" width="22" height="46" rx="2"/>
+      </g>
+      <g fill="#111827">
+        <rect x="18" y="4" width="12" height="28" rx="2"/><rect x="42" y="4" width="12" height="28" rx="2"/><rect x="90" y="4" width="12" height="28" rx="2"/><rect x="114" y="4" width="12" height="28" rx="2"/><rect x="138" y="4" width="12" height="28" rx="2"/>
+      </g>
+    </g>
+    <g fill="none" stroke="#f472b6" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round">
+      <path d="M420 236l18-22 14 8 12-18 12 16 14-24"/>
+      <path d="M500 236l-4-34 6-22 8-18"/>
+      <path d="M540 236l14-30 16-14"/>
+      <path d="M582 236l8-18 14-10"/>
+    </g>
+    <g fill="#f9a8d4">
+      <circle cx="438" cy="214" r="3"/><circle cx="452" cy="222" r="3"/><circle cx="464" cy="204" r="3"/><circle cx="476" cy="220" r="3"/><circle cx="490" cy="196" r="3"/>
+      <circle cx="506" cy="202" r="3"/><circle cx="510" cy="180" r="3"/><circle cx="518" cy="162" r="3"/>
+      <circle cx="554" cy="206" r="3"/><circle cx="570" cy="192" r="3"/>
+      <circle cx="590" cy="218" r="3"/><circle cx="604" cy="208" r="3"/>
+    </g>
+    <g fill="#38bdf8" opacity="0.75">
+      <circle cx="470" cy="120" r="2"/><circle cx="520" cy="100" r="1.6"/><circle cx="585" cy="130" r="1.8"/><circle cx="610" cy="86" r="1.4"/>
+    </g>
+    <g stroke="#38bdf8" stroke-opacity="0.35" fill="none">
+      <path d="M470 120v-14M520 100v-12M585 130v-10"/>
+    </g>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="639" height="299" rx="16" fill="none" stroke="#223047"/>
+<rect x="0" y="296" width="640" height="4" fill="url(#line-piano)"/>
+<text x="34" y="52" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" fill="#f472b6" letter-spacing="2.4" opacity="1" text-anchor="start">GESTURE INTERACTION</text>
+<text x="34" y="96" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#f8fafc" letter-spacing="-0.4" opacity="1" text-anchor="start">Gesture Piano</text>
+<text x="34" y="126" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#9fb0c9" letter-spacing="0" opacity="1" text-anchor="start">A contactless ten-finger rhythm game</text><text x="34" y="147" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#9fb0c9" letter-spacing="0" opacity="1" text-anchor="start">on Raspberry Pi 5 with MediaPipe.</text>
+<g><rect x="34" y="238" width="81.9" height="26" rx="13" fill="#f472b6" fill-opacity="0.10" stroke="#f472b6" stroke-opacity="0.35"/><text x="43" y="255.5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f472b6" letter-spacing="0" opacity="1" text-anchor="start">MediaPipe</text></g><g><rect x="122.9" y="238" width="60.6" height="26" rx="13" fill="#f472b6" fill-opacity="0.10" stroke="#f472b6" stroke-opacity="0.35"/><text x="131.9" y="255.5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f472b6" letter-spacing="0" opacity="1" text-anchor="start">Pygame</text></g><g><rect x="190.5" y="238" width="53.5" height="26" rx="13" fill="#f472b6" fill-opacity="0.10" stroke="#f472b6" stroke-opacity="0.35"/><text x="199.5" y="255.5" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#f472b6" letter-spacing="0" opacity="1" text-anchor="start">RPi 5</text></g>
+</svg>

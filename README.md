@@ -21,18 +21,18 @@ I build embodied systems that **perceive, plan, and act** — in simulation, on 
 ## 🚀 Featured Work
 
 <p align="center">
-  <a href="https://github.com/wuuwuu26/MindCloud_World_Fly_with_YOPO"><img src="assets/project-mindcloud.svg" width="48%" alt="MindCloud World Fly with YOPO"></a>
-  <a href="https://github.com/wuuwuu26/lingbot-vla-lora_tuned_1500"><img src="assets/project-lingbot.svg" width="48%" alt="LingBot-VLA LoRA"></a>
+  <a href="https://github.com/wuuwuu26/MindCloud_World_Fly_with_YOPO"><img src="assets/project-mindcloud.svg?v=2" width="48%" alt="MindCloud World Fly with YOPO"></a>
+  <a href="https://github.com/wuuwuu26/lingbot-vla-lora_tuned_1500"><img src="assets/project-lingbot.svg?v=2" width="48%" alt="LingBot-VLA LoRA"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wuuwuu26/integrated-simulation"><img src="assets/project-simulation.svg" width="48%" alt="Integrated Simulation"></a>
-  <a href="https://github.com/wuuwuu26/ros-moveit-terrain-builder"><img src="assets/project-terrain.svg" width="48%" alt="ROS + MoveIt Terrain Builder"></a>
+  <a href="https://github.com/wuuwuu26/integrated-simulation"><img src="assets/project-simulation.svg?v=2" width="48%" alt="Integrated Simulation"></a>
+  <a href="https://github.com/wuuwuu26/ros-moveit-terrain-builder"><img src="assets/project-terrain.svg?v=2" width="48%" alt="ROS + MoveIt Terrain Builder"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/wuuwuu26/machine-vision-labs"><img src="assets/project-vision.svg" width="48%" alt="Machine Vision Labs"></a>
-  <a href="https://github.com/wuuwuu26/piano_game"><img src="assets/project-piano.svg" width="48%" alt="Gesture Piano"></a>
+  <a href="https://github.com/wuuwuu26/machine-vision-labs"><img src="assets/project-vision.svg?v=2" width="48%" alt="Machine Vision Labs"></a>
+  <a href="https://github.com/wuuwuu26/piano_game"><img src="assets/project-piano.svg?v=2" width="48%" alt="Gesture Piano"></a>
 </p>
 
 <div align="center">

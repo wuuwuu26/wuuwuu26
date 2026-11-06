@@ -68,13 +68,3 @@ I build embodied systems that **perceive, plan, and act** — in simulation, on 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Cesium](https://img.shields.io/badge/Cesium-0B1B34?style=flat-square)
-
-## 🔭 Currently
-
-- Fine-tuning vision-language-action models for robotic manipulation.
-- Exploring learning-based UAV navigation in photorealistic 3D environments.
-- Turning course projects into reproducible, open-source demos.
-
-<div align="center">
-  <sub>Perception → Planning → Action · Always building.</sub>
-</div>
